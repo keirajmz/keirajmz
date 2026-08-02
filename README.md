@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2 align = "center"> Hello World! I'm Keira Jimenez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
 
-<!--
-**keirajmz/keirajmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Artificial Intelligence Engineering <b>student</b>
+<br>
+Backend Developer in progress :D
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="100"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+
+<p>
+  <a href="link">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
+  </a>
+</p>
