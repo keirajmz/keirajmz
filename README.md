@@ -19,7 +19,7 @@
 <h3 align="center"> interests 🕸️</h3>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=flat"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-2c78d1?style=flat"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Biology-000000?style=flat">
 <br>
