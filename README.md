@@ -8,6 +8,11 @@ Backend Developer in progress :D
 
 <p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="100"></p>
 
+<h2 align = "center" > Tech stack </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,django,mysql,postgresql,linux,git,github,vscode" />
+</p>
+
 <h3 align ="center">📫 Connect with me </h3>
 
 <p align="center">
