@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Artificial Intelligence Engineering <b>student</b>
 <br>
-Backend Developer in progress :D
+Currently exploring Artificial Intelligence & Web Development :D
 </p>
 
 <p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="100"></p>
@@ -17,6 +17,6 @@ Backend Developer in progress :D
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keira-jimenez-6963713aa?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
