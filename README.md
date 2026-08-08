@@ -1,25 +1,24 @@
-<h1 align = "center"> Hello World! I'm Keira Jimenez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-
+<h1 align = "center"> <img src="helloworld (3).gif"/></h1>
 
 
 <table align="center">
 <tr>
 
-<td width="33%" valign="top">
+<td width="60%" valign="top">
 
-<h3 align="center"> currently </h3>
+<h3 align="center"> about me </h3>
 
-<p align="center">
-🎓 Artificial Intelligence Engineering <b>student</b>
-<br>
-Backend developer in progress :D
-</p>
+- Artificial Intelligence Engineering <b>student</b>
+- Backend developer in progress :D
+- Founder of UsagiCode
+- <b>Ultimate goal:</b> Apply tech to build solutions with real-world impact in healthcare, biology, and biomed
+
 
 <p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="150"></p>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="40%" valign="top">
 
 <h3 align="center"> interests </h3>
 
