@@ -28,7 +28,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Backend%20Development-000000?style=flat">
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Databases-000000?style=flat">
-<img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-000000?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-f2becb?style=flat">
 </p>
 
 </td>
