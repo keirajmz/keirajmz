@@ -6,28 +6,31 @@
 
 <td width="60%" valign="top">
 
-<h3 align="center"> about me </h3>
+<h3 align="center"> about me 🕷️</h3>
 
 - Artificial Intelligence Engineering <b>student</b>
 - Backend developer in progress :D
 - Founder of UsagiCode
 - <b>Ultimate goal:</b> Apply tech to build solutions with real-world impact in healthcare, biology, and biomed
 
-
-<p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="150"></p>
-
 </td>
 
 <td width="40%" valign="top">
 
-<h3 align="center"> interests </h3>
+<h3 align="center"> interests 🕸️</h3>
 
-- AI & Machine Learning
-- Backend
-- Databases
-- Cybersecurity
-- Robotics
-- Neurotechnology
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=flat"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Biology-000000?style=flat">
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-000000?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Cybersecurity-000000?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Backend%20Development-000000?style=flat">
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Databases-000000?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-000000?style=flat">
+</p>
 
 </td>
 </tr>
