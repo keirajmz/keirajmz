@@ -21,14 +21,14 @@
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-2c78d1?style=flat"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat">
-<img alt="Static Badge" src="https://img.shields.io/badge/Biology-000000?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Biology-16b23d?style=flat">
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-95dcfb?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-dbb203?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Cybersecurity-000000?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Backend%20Development-000000?style=flat">
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Databases-000000?style=flat">
-<img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-f2becb?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-ff96d3?style=flat">
 </p>
 
 </td>
