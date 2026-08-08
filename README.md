@@ -1,9 +1,5 @@
+<h1 align = "center"> Hello World! I'm Keira Jimenez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<p>
-  <img src="helloworld (2).gif">
-</p>
-
----
 
 <p align="center">
 🎓 Artificial Intelligence Engineering <b>student</b>
