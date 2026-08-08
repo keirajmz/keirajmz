@@ -44,10 +44,10 @@
 
 ---
 
-<h2 align ="center">🖇️ Connect with me </h2>
+<h2 align ="center">📎 Connect with me </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keira-jimenez-6963713aa?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
