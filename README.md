@@ -6,7 +6,7 @@
 
 <td width="60%" valign="top">
 
-<h3 align="center"> about me 🕷️</h3>
+<h3 align="center"> about me 💬</h3>
 
 - Artificial Intelligence Engineering <b>student</b>
 - Founder of UsagiCode
@@ -16,7 +16,7 @@
 
 <td width="40%" valign="top">
 
-<h3 align="center"> interests 🕸️</h3>
+<h3 align="center"> interests 🍀</h3>
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-2c78d1?style=flat"> 
