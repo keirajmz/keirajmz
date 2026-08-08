@@ -23,7 +23,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Biology-000000?style=flat">
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-000000?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-95dcfb?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Cybersecurity-000000?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Backend%20Development-000000?style=flat">
 <br>
