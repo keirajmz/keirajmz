@@ -9,7 +9,6 @@
 <h3 align="center"> about me 🕷️</h3>
 
 - Artificial Intelligence Engineering <b>student</b>
-- Backend developer in progress :D
 - Founder of UsagiCode
 - <b>Ultimate goal:</b> Apply tech to build solutions with real-world impact in healthcare, biology, and biomed
 
