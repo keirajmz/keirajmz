@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,django,mysql,postgresql,linux,git,github,vscode" />
 </p>
 
-<p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="200"></p>
+<p align="center"><img src="chikawa.gif" width="200"></p>
 
 ---
 
