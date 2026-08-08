@@ -1,13 +1,6 @@
 <h1 align = "center"> Hello World! I'm Keira Jimenez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
-<p align="center">
-🎓 Artificial Intelligence Engineering <b>student</b>
-<br>
-Backend developer in progress :D
-</p>
-
-<p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="100"></p>
 
 <table align="center">
 <tr>
@@ -16,11 +9,13 @@ Backend developer in progress :D
 
 <h3 align="center"> currently </h3>
 
-- Founder of **UsagiCode**
-- Learning Web Development & APIs
-- Exploring Cybersecurity
-- Learning more about AI
-- Always learning something new
+<p align="center">
+🎓 Artificial Intelligence Engineering <b>student</b>
+<br>
+Backend developer in progress :D
+</p>
+
+<p align="center"><img src="https://i.pinimg.com/originals/dd/d3/5e/ddd35e0972ba5a2b9f985e364a91f355.gif?nii=t" width="150"></p>
 
 </td>
 
