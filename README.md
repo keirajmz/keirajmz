@@ -6,17 +6,15 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center"> about me 💬</h3>
+<h3 align="center"> about me :D </h3>
 
-- Artificial Intelligence Engineering <b>student</b>
-- Founder of <b>UsagiCode</b>, a tech community focused on collaborative learning in AI, Web Dev, Cybersecurity, and more
-- <b>Future goal:</b> Apply tech to build solutions with real-world impact in healthcare, biology, and biomed
+<p align= "justify">Hii, my name is Keira. I am an <b>Artificial Intelligence engineering student</b> and founder of <b>UsagiCode</b>, a tech community focused on collaborative learning in AI, web dev, cybersecurity, and more. My future goal is to apply technology to build solutions with real-world impact in healthcare, biology, and biomed.</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center"> interests 🍀</h3>
+<h3 align="center"> interests ݁ ˖Ი𐑼⋆</h3>
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-003366?style=flat"> 
@@ -37,16 +35,16 @@
 
 ---
 
-<h2 align = "center" > Tech stack </h2>
+<h2 align = "center" > tech stack ( ╹ -╹)?</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,django,mysql,postgresql,linux,git,github,vscode" />
 </p>
 
-<p align="center"><img src="chikawa.gif" width="200"></p>
+<p align="center"><img src="chikawa.gif" width="150"></p>
 
 ---
 
-<h2 align ="center">📎 Connect with me </h2>
+<h2 align ="center">📎 connect with me ✿ </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keira-jimenez-6963713aa?utm_source=share_via&utm_content=profile&utm_medium=member_android">
