@@ -17,15 +17,15 @@
 <h3 align="center"> interests ݁ ˖Ი𐑼⋆</h3>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-003366?style=flat"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-40e0d0?style=flat">
-<img alt="Static Badge" src="https://img.shields.io/badge/Biology-16b23d?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Artificial%20Intelligence-96b1ea?style=flat"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-c1d1f3?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Biology-c7ce67?style=flat">
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-d2ab06?style=flat">
-<img alt="Static Badge" src="https://img.shields.io/badge/Cybersecurity-4d4d4d?style=flat">
-<img alt="Static Badge" src="https://img.shields.io/badge/Backend%20Development-ff4500?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Data%20Science-f7b554?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Cybersecurity-673838?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Backend%20Development-db6f40?style=flat">
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Databases-800080?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Databases-e8acc8?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-db3a98?style=flat">
 </p>
 
