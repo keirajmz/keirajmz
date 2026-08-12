@@ -26,7 +26,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Backend%20Development-db6f40?style=flat">
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Databases-e8acc8?style=flat">
-<img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-db3a98?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Biomedical%20Engineering-db74a3?style=flat">
 </p>
 
 </td>
@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align ="center">📎 connect with me ✿ </h2>
+<h2 align ="center">connect with me 📎✿ </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keira-jimenez-6963713aa?utm_source=share_via&utm_content=profile&utm_medium=member_android">
