@@ -1,6 +1,5 @@
 <h1 align = "center"> <img src="helloworld (7).gif"/></h1>
 
-
 <table align="center">
 <tr>
 
@@ -47,7 +46,10 @@
 <h2 align ="center">connect with me 📎✿ </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keira-jimenez-6963713aa?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/keira-jimenez-6963713aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:keiracjimenez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
