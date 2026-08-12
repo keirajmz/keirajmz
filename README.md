@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align = "center" > tech stack ( ╹ -╹)?</h2>
+<h2 align = "center" >tech stack ( ╹ -╹)?</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,django,mysql,postgresql,linux,git,github,vscode" />
 </p>
